@@ -97,7 +97,7 @@ A lightweight Python-based static analysis tool.
 [+] URL / IP extraction
 ```
 
-[View my repositories →](https://github.com/0-exec?tab=repositories)
+[View my repositories →](https://github.com/0vyren?tab=repositories)
 
 ### `05 // CURRENTLY WORKING ON`
 
